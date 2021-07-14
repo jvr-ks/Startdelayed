@@ -10,3 +10,4 @@ for %%s in (apps\*.lnk) do (
 	timeout /t 10 > nul
 )
 
+exit
