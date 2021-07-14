@@ -12,7 +12,7 @@ and
 [create_startdelayed_link_in_autostartfolder.bat](https://github.com/jvr-ks/startdelayed/raw/master/create_startdelayed_link_in_autostartfolder.bat)  
 
 
-Create a startdelayed-directory, example "C:\\_startdelayed" or "%HOMEPATH%\\_startdelayed".  
+Create a startdelayed-directory, example "C:\\_startdelayed" or "%HOMEPATH%\\startdelayed".  
 Create an "apps" subdirectory.  
   
 Download the files into this startdelayed-directory.  
