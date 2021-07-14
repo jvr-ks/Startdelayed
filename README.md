@@ -4,7 +4,7 @@ Batchfile to start some apps delayed at Windows boot.
 
 
 ###### Download
-* Download from github  
+* Download from github (rightclick, save as ...)   
 [startdelayed.bat](https://github.com/jvr-ks/startdelayed/raw/master/startdelayed.bat)  
 and  
 [startdelayedmin.bat](https://github.com/jvr-ks/startdelayed/raw/master/startdelayedmin.bat)  
