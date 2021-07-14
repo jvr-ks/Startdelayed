@@ -16,7 +16,7 @@ Create a startdelayed-directory, example "C:\\_startdelayed" or "%HOMEPATH%\\_st
 Create an "apps" subdirectory.  
   
 Download the files into this startdelayed-directory.  
-Run "_create_startdelayed_link_in_autostartfolder.bat" once.  
+Run "create_startdelayed_link_in_autostartfolder.bat" once.  
   
 For each app to start delayed create a shortcut and move this shortcut into the apps subdirectory,  
 i.e. into "C:\\_startdelayed\\apps" in the example.  
